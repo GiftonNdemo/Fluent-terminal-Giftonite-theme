@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Giftonite",
+  "Author": "Gifton",
+  "Colors": {
+    "Foreground": "#C9C557",
+    "Background": "#071417",
+    "Cursor": "#FFFFFF",
+    "CursorAccent": "#FFFCAE",
+    "Selection": "rgba(0, 0, 0, 0.5)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#2E3436",
+    "Red": "#CC0000",
+    "Green": "#4E9A06",
+    "Yellow": "#C4A000",
+    "Blue": "#3465A4",
+    "Magenta": "#75507B",
+    "Cyan": "#06989A",
+    "White": "#D3D7CF",
+    "BrightBlack": "#555753",
+    "BrightRed": "#EF2929",
+    "BrightGreen": "#8AE234",
+    "BrightYellow": "#FCE94F",
+    "BrightBlue": "#729FCF",
+    "BrightMagenta": "#AD7FA8",
+    "BrightCyan": "#34E2E2",
+    "BrightWhite": "#EEEEEC"
+  },
+  "BackgroundImage": null
+}
